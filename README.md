@@ -1,7 +1,7 @@
 - 👋 Hi,
 - 👀 I’m interested in Java/.Net/Javascript/Php/Python/AI/Android technologies and frameworks
 
-Favorite frameworks until now : Angular Reactjs IonicFramework Spring boot .NET/.NET Core Nodejs/ExpressJS Laravel FastAPI
+Favorite frameworks until now : Angular Reactjs IonicFramework Spring boot .NET Nodejs/ExpressJS Laravel Flask
 
 My name is Mohammed and I&#x27;m a fullstack engineer. Since I started my studies on IT master degree, I have worked on many different types of software projects,    ranging from small personal projects to large enterprise-level projects. I have also gained a lot of experience in different programming languages and software platforms.
 
