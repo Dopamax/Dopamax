@@ -11,8 +11,6 @@ I am a very passionate person when it comes to my work and I always strive to do
 
 - 📫 How to reach me: med.bezai@gmail.com
 
-  Feel free to see my professional website : https://mohammedbezai.netlify.app
-
 <!---
 Dopamax/Dopamax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
