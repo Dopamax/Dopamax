@@ -9,8 +9,6 @@ I am a very detail-oriented person and I always strive to produce high-quality w
 
 I am a very passionate person when it comes to my work and I always strive to do my best. I am always looking to learn new things and to improve my skills. I am also very proactive and I am always willing to take on new challenges. I am a very positive person and I always try to see the best in every situation.
 
-- 📫 How to reach me: med.bezai@gmail.com
-
 <!---
 Dopamax/Dopamax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
